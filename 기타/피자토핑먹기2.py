@@ -55,3 +55,4 @@ def solution(topping, tasting):
 
 print(solution([2,1,3,1,2,4,4,3], [1, 2, 3, 4]))
 print(solution([2,1,3,1,2,4,4,3], [3,1,2,4]))
+print(solution([2,1,3,1,2,4,4,3],[1,1,1,1]))
